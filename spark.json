@@ -1,0 +1,7 @@
+{
+    "name": "command-parser",
+    "version": "0.0.1",
+    "author": "Daniel Sundberg <daniel.sundberg@gmail.com>",
+    "license": "MIT",
+    "description": "Multi command parser for use with Spark.function()"
+}
